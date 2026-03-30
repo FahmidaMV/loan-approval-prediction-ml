@@ -20,13 +20,13 @@ This project is a machine learning application that predicts whether a loan will
 	•	Scikit-learn
 	•	Streamlit
 
-
 ## **How to Run**
-	1.	Install required libraries:
+	
+1.	Install required libraries:
 pip install -r requirements.txt
-	2.	Run the application:
+2.	Run the application:
 streamlit run app.py
-	3.	The app will open automatically in your browser.
+3.	The app will open automatically in your browser.
 
 
 ## **Dataset**
